@@ -1,4 +1,4 @@
-#Road To Machine Learning
+# Road To Machine Learning
 A collection of Python practice codes and mini-projects to strengthen my foundation in programming, data handling, and algorithms. This repository serves as my personal training ground for mastering Python fundamentals while gradually building skills for Machine Learning and AI.
 
 This repository documents my learning journey in Python and Machine Learning.
