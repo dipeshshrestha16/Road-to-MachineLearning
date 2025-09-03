@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Inception,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",USA,"September 1, 2020",2010,PG-13,148 min,"Sci-Fi & Fantasy, Action",A thief who enters dreams must perform inception.
+s2,TV Show,Stranger Things,Unknown,"Millie Bobby Brown, Finn Wolfhard",USA,"July 15, 2016",2016,TV-14,3 Seasons,"TV Horror, Teen TV Shows",Kids uncover dark mysteries in their town.
+s3,Movie,The Irishman,Martin Scorsese,"Robert De Niro, Al Pacino",USA,"November 27, 2019",2019,R,209 min,"Dramas, Crime Movies",A gangster reflects on his life of crime.
+s4,Movie,Extraction,Sam Hargrave,"Chris Hemsworth, Randeep Hooda",USA,"April 24, 2020",2020,R,117 min,"Action, Thrillers",A mercenary rescues a kidnapped boy.
+s5,TV Show,Dark,Unknown,"Louis Hofmann, Lisa Vicari",Germany,"December 1, 2017",2017,TV-MA,3 Seasons,"Sci-Fi TV, Mystery",A family uncovers a time-travel conspiracy.
+s6,Movie,Roma,Alfonso Cuarón,"Yalitza Aparicio, Marina de Tavira",Mexico,"December 14, 2018",2018,R,135 min,"Dramas, International Movies",A maid works for a middle-class family.
+s7,TV Show,Money Heist,Unknown,"Úrsula Corberó, Álvaro Morte",Spain,"May 2, 2017",2017,TV-MA,5 Seasons,"Crime TV Shows, Thrillers",A group executes daring heists in Spain.
+s8,Movie,Okja,Bong Joon-ho,"Ahn Seo-hyun, Tilda Swinton",South Korea,"June 28, 2017",2017,PG-13,121 min,"Action, International Movies",A girl bonds with a genetically modified pig.
+s9,Movie,The Platform,Galder Gaztelu-Urrutia,"Iván Massagué, Zorion Eguileor",Spain,"March 20, 2020",2019,TV-MA,95 min,"Horror, Thrillers",Prisoners fight for survival in a vertical prison.
+s10,TV Show,Friends,Unknown,"Jennifer Aniston, Courteney Cox",USA,"January 1, 2021",1994,TV-14,10 Seasons,"Classic TV, Sitcoms",Six friends navigate life in New York City.
